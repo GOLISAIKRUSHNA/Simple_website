@@ -1,0 +1,19 @@
+body{
+    background: lightblue;
+}
+h1{
+
+    color: red;
+}
+img:hover{
+    background: red;
+    border:solid 2px red;
+}
+
+.circular{
+    border-radius: 25%;
+}
+
+#circle{
+    border-radius: 25%;
+}
